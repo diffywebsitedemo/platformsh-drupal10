@@ -23,7 +23,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: 'Recipe collections'
+      title: 'Recipe collections 321'
       fields:
         name:
           id: name
